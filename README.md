@@ -27,6 +27,8 @@ The data offers a timeframe from 2015 to 2022. The output algorithms have been u
 ●	Technical Requirements 
 1.	The merged dataset by using the databases in the csv formats.
 2.	We can use datasets with the help of machine learning and data science with the help of pyhton.
+   
 ●	Software Requirements
+
         Python IDE, Excel, IBM Cloud, IBM Watson 
 
