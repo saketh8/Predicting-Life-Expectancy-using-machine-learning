@@ -15,9 +15,9 @@ In this project tries to create a new model based on the data provided is to eva
 
 5.Lasso Regression
 
-●	Project Requirements
+●	Project Requirements:
 
-            The scope of this project is to predict the guesstimate given my current knowledge and the limited amount of time I have spent researching and thinking about this question, is that there is a 15% chance that life expectancy will decline in the future. If it does, then my best guess is that the mean value – of the range of possible life expectancies in 2050  is 70 years, which is close to the current value of female life expectancy in the world as a whole. Discussions among a group of experts and systematic consideration of various scenarios would undoubtedly produce values different from 15% and 70 years, but these values illustrate the approach according to the research.
+The scope of this project is to predict the guesstimate given my current knowledge and the limited amount of time I have spent researching and thinking about this question, is that there is a 15% chance that life expectancy will decline in the future. If it does, then my best guess is that the mean value – of the range of possible life expectancies in 2050  is 70 years, which is close to the current value of female life expectancy in the world as a whole. Discussions among a group of experts and systematic consideration of various scenarios would undoubtedly produce values different from 15% and 70 years, but these values illustrate the approach according to the research.
             
 ●	Functional Requirements
  1. Create a data model present on the database.
