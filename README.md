@@ -62,34 +62,55 @@ Training models using scikit-learn
 
 Evaluating models using:
 
-Mean Absolute Error (MAE)
-Root Mean Squared Error (RMSE)
-R² Score (Coefficient of Determination)
-Predictions & Analysis
+->Mean Absolute Error (MAE)
+
+->Root Mean Squared Error (RMSE)
+
+->R² Score (Coefficient of Determination)
+
+->Predictions & Analysis
 
 Predicting life expectancy trends
+
 Observing impact of socioeconomic factors
+
 Analyzing changes in feature importance over time
+
 🚀 Results & Findings
+
 🔹 The study suggests a 15% probability of life expectancy decline in the future.
+
 🔹 Estimated mean life expectancy by 2050 is projected to be around 70 years.
+
 🔹 Ridge and Lasso Regression performed best due to their ability to handle multicollinearity.
+
 🔹 GDP, immunization rates, and access to healthcare were among the most influential features.
 
 🔮 Future Enhancements
+
 ✅ Expand dataset to include more countries and historical data
+
 ✅ Experiment with advanced ML models (Random Forest, Neural Networks)
+
 ✅ Conduct time-series analysis for better trend prediction
+
 ✅ Integrate additional datasets for a more comprehensive study
 
 ⚙ Technical Requirements
+
 🔹 Programming Language: Python
+
 🔹 Libraries Used:
 
 pandas, numpy – Data manipulation
+
 matplotlib, seaborn – Data visualization
+
 scikit-learn – Machine learning models
+
 🔹 Development Environment:
+
 Jupyter Notebook
+
 IBM Watson Studio (for cloud-based computation)
 
