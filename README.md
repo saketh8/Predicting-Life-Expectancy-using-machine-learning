@@ -19,34 +19,49 @@ Environmental factors (pollution levels, sanitation, drinking water access)
 📌 Preprocessing Steps:
 
 ✔ Handling missing values
+
 ✔ Encoding categorical variables
+
 ✔ Feature selection and scaling
+
 ✔ Outlier detection and removal
 
 The dataset is stored in CSV format for easy access and manipulation.
 
 🔬 Machine Learning Models Used
+
 To predict life expectancy, we experimented with five regression models:
 
 1️⃣ Linear Regression – Basic regression model to understand linear trends
+
 2️⃣ Polynomial Regression – Captures non-linearity in the data
+
 3️⃣ Logistic Regression – Used for categorical classifications within the dataset
+
 4️⃣ Ridge Regression – Helps in reducing overfitting and handles multicollinearity
+
 5️⃣ Lasso Regression – Performs feature selection by penalizing less important features
 
 Each model was trained and evaluated using train-test splits and compared using performance metrics.
 
 📊 Methodology
+
 Exploratory Data Analysis (EDA)
 
 Data visualization using matplotlib and seaborn
+
 Feature correlation analysis
+
 Distribution of key attributes (e.g., GDP, immunization, under-five mortality)
+
 Model Training & Evaluation
 
 Splitting data into training and test sets
+
 Training models using scikit-learn
+
 Evaluating models using:
+
 Mean Absolute Error (MAE)
 Root Mean Squared Error (RMSE)
 R² Score (Coefficient of Determination)
