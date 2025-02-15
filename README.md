@@ -9,8 +9,11 @@ This project aims to predict life expectancy in India using various machine lear
 The dataset consists of multiple health and demographic indicators such as:
 
 Economic factors (GDP, health expenditure, income composition)
+
 Health indicators (BMI, immunization rates, mortality rates)
+
 Demographic aspects (population status, schooling, life expectancy)
+
 Environmental factors (pollution levels, sanitation, drinking water access)
 
 📌 Preprocessing Steps:
